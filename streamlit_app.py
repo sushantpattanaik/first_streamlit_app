@@ -52,6 +52,6 @@ streamlit.dataframe (fruityvice_normalized)
 
 pip install snowflake-connector-python
 
-#import snowflake.connector
+#import snowflake.connecto
 
 
